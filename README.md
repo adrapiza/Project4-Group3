@@ -5,7 +5,7 @@
 Our goal is to look at the different city job titles that are within the city government and prediciting their salary values. With using Kaggle's San Francisco's Salary Dataset - we narrowed down the job titles to the top 50 populated/common job titles and the created categories that best fit. This project would give those who are interested in working for the city of San Francisco and potential salary values for those intrigued in certain job titles and their job categories. The dataset entails job titles, departments, base pay, overtime pay and total compensation. This would also help create decisions around advancement in careers, hiring and keeping employees.
 ---
 ## In this project: 
-- Data file which inlcudes CSVs and photos 
+- Data file which inlcudes CSVs, photos and Tableau Workbook
 - Prediction SF Salaries updated.IPYNB
     - Clean, filter and narrow the dataset loaded from SF Salaries CSV : https://www.kaggle.com/datasets/kaggle/sf-salaries
     - Created multiple dataframes including cleaned version of the SF Salaries, dataframes that range to 2011-2014, and more.
